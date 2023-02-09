@@ -1,0 +1,22 @@
+#section2 {
+    background-image: url(../assets/backgroundImg.jpeg);
+    background-repeat: no-repeat;
+    background-position: 47%;
+    background-size: 100%;
+    text-align: center;
+    height: 500px;
+    padding: 75px 30px 30px 30px;
+    flex-direction: column;
+}
+
+#section2 h3 {
+    font-weight: 500;
+    font-size: 24px;
+    color: white;
+    font-style: normal;
+}
+
+#inf-item {
+    display: flex;
+    justify-content: space-evenly;
+}

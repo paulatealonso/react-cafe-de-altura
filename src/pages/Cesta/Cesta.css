@@ -1,0 +1,124 @@
+#ca1 {
+    display: flex;
+    margin-left: 49px;
+    justify-content: space-between;
+    width: 865px;
+    margin-bottom: 55px;
+    align-items: center;
+    border-bottom: 1px solid #E3DED7;
+    padding-bottom: 24px;
+}
+
+#cesta-sect {
+    margin-top: 40px;
+}
+
+#cesta-sect h3 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    color: #2A5B45;
+}
+
+#cesta-sect h4 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 3px;
+}
+
+#col {
+    display: flex;
+}
+
+#chil1 {
+    display: flex;
+    align-items: center;
+}
+
+#chil1 p {
+    border: solid 1px #F7F5F3;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    color: rgba(42, 91, 69, 1);
+    background-color: #F7F5F3;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 7px;
+    margin: 35px 5px 0 13px;
+}
+
+#chil1 button {
+    width: 24px;
+    height: 24px;
+    text-decoration: none;
+    background-color: white;
+    border: white;
+    font-size: 30px;
+
+}
+
+#chil2 {
+    width: 130px;
+}
+
+
+#chil2 img {
+    width: 63%;
+    padding-left: 30px;
+    padding-right: 0;
+    margin-right: 0;
+}
+
+#chil3 p {
+    font-size: 14px;
+}
+
+#chil4 p {
+    font-size: 18px;
+}
+
+.bolder {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+
+
+#radioBox {
+    padding-left: 48px;
+    width: 870px;
+}
+
+.contRadio {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+
+.tog {
+    display: flex;
+    width: 600px;
+    margin-bottom: 10px;
+}
+
+.tog label {
+    margin-left: 23px;
+}
+
+.tog h4 {
+    font-weight: 600;
+    font-size: 14px;
+    padding-left: 22px;
+}
+
+.tog p {
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 22px;
+}
+
+.tog input[type=radio] {
+    accent-color: #2A5B45;
+    width: 17px;
+}

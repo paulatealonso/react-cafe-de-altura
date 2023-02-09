@@ -1,0 +1,137 @@
+#conteiner-paid {
+    margin: 40px;
+    width: 900px;
+}
+
+#conteiner-paid h3 {
+    font-weight: 500;
+    font-size: 24px;
+    color: #2A5B45;
+    text-align: right;
+    margin-right: 170px;
+}
+
+.span-separ {
+    margin-left: 38px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#conteiner-paid h5 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+#conteiner-debit {
+    padding-bottom: 24px;
+}
+
+#conteiner-transferencia {
+    border-top: 1px solid #E3DED7;
+    padding-top: 34px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #E3DED7;
+}
+
+#debit {
+    margin-right: 23px;
+    background: #2A5B45;
+    border-radius: 4px;
+    padding: 12px 24px;
+    color: white;
+    border: #2A5B45;
+    cursor: pointer;
+}
+
+#conteiner-bizum input[type=radio] {
+    accent-color: #2A5B45;
+    width: 17px;
+}
+
+#conteiner-transferencia input[type=radio] {
+    accent-color: #2A5B45;
+    width: 17px;
+}
+
+#conteiner-debit input[type=radio] {
+    accent-color: #2A5B45;
+    width: 17px;
+}
+
+#trans {
+    margin-right: 23px;
+    background: #2A5B45;
+    border-radius: 4px;
+    padding: 12px 24px;
+    color: white;
+    border: #2A5B45;
+    cursor: pointer;
+}
+
+#bizum {
+    margin-right: 23px;
+    background: #2A5B45;
+    border-radius: 4px;
+    padding: 12px 24px;
+    color: white;
+    border: #2A5B45;
+    cursor: pointer;
+}
+
+#titular-form input {
+    width: 279px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+
+#target-form input {
+    width: 279px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+
+#secret-form input {
+    width: 127.5px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-bottom: 8px;
+}
+
+#expiration-form input {
+    width: 127.5px;
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    margin-right: 11px;
+}
+
+#expiration-cvc {
+    display: flex;
+}
+
+#conteiner-bizum {
+    margin-top: 31px;
+    display: flex;
+}
+
+.label-bold {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#img-bizum {
+    margin-bottom: 3px;
+}
+
+#conteiner-bizum label {
+    margin-top: 5px;
+    margin-right: 8px;
+}

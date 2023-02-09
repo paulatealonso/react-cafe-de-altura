@@ -1,0 +1,55 @@
+#news {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#box-products {
+    width: 282px;
+    height: 391.39px;
+    padding: 24px;
+    margin-top: 25px;
+    margin-left: 7px;
+    margin-right: 8px;
+    margin-bottom: 25px;
+    border: 1px solid #E3DED7;
+    border-radius: 8px;
+    transition: 1s background-color;
+}
+
+#box-products:hover {
+    background-color: #E3DED7;
+}
+
+#box-products h4 {
+    margin-bottom: 6px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#box-products p {
+    padding: 10px 0 0 0;
+    margin-bottom: 32px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+#box-products img {
+    width: 219.39px;
+    height: 219.39px;
+    margin-bottom: 24px;
+}
+
+#box-products button {
+    text-decoration: none;
+    background-color: #2A5B45B3;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    width: 70px;
+}
+
+#box-products Button:hover {
+    background-color: #2A5B45;
+}

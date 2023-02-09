@@ -1,0 +1,87 @@
+#contact-box {
+    background-color: white;
+    width: 670px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#contact-box form {
+    margin: 32px 67px;
+    display: flex;
+    flex-direction: column;
+    color: #374151;
+    font-size: 12px;
+}
+
+#username {
+    width: 470px;
+    height: 34px;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    margin-bottom: 24px;
+    padding-left: 10px;
+}
+
+#email {
+    width: 470px;
+    height: 34px;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    margin-bottom: 24px;
+    padding-left: 10px;
+}
+
+#tel {
+    width: 419px;
+    height: 34px;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    margin-bottom: 24px;
+    padding-left: 10px;
+}
+
+.form-select {
+    height: 36px;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+textarea {
+    width: 456px;
+    height: 122px;
+    margin-top: 22px;
+    border-radius: 6px;
+    border: #D1D5DB solid 1px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 10px;
+    margin-bottom: 24px;
+}
+
+.form-check-label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+#check {
+    margin-bottom: 28px;
+}
+
+.btn-form {
+    background: #2A5B45;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    width: 90px;
+    height: 40px;
+}
+
+.btn-form:hover {
+    background-color: #234f3b;
+}

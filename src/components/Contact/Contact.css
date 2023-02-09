@@ -1,0 +1,67 @@
+#contact {
+    background-color: #E3DED7;
+    opacity: 0.9;
+    height: 572px;
+    display: flex;
+}
+
+#finalConteiner {
+    width: 690px;
+    margin-left: 40px;
+    margin-top: 116px;
+    color: #6B7280;
+}
+
+#finalConteiner h5 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 12px;
+    color: black;
+}
+
+#loguito img {
+    filter: invert(1);
+    width: 20px;
+    margin-left: 10px;
+}
+
+#imgFormLogo {
+    padding: 10px 80px 12px 0;
+    width: 200px;
+
+}
+
+#imgFormLogo img {
+    width: 20px;
+
+}
+
+#ofertas a {
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#imgFormLogo p {
+    width: 160px;
+
+}
+
+#loguito {
+    padding: 10px 80px 12px 0;
+    width: 200px;
+
+}
+
+#loguito p {
+    width: 160px;
+    margin-left: 25px;
+}
+
+#getJob {
+    color: black;
+    font-style: bold;
+    font-weight: 400;
+    font-size: 14px;
+    border-bottom: 1px solid #6B7280;
+}

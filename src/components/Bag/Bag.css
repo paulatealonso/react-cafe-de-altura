@@ -1,0 +1,25 @@
+#bagLogo {
+    width: 95px;
+    display: flex;
+    color: inherit;
+}
+
+.bag {
+    width: 25px;
+    color: white;
+    filter: invert(1);
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+
+
+#count {
+    background: rgba(247, 245, 243, 0.1);
+    border-radius: 200px;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    margin-right: 5px;
+    padding-top: 2px;
+}

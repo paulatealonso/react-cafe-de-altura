@@ -1,0 +1,92 @@
+#pre-footer {
+    color: white;
+    background-color: #1F1815;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+
+
+#logos-footer {
+    margin: 28px 300px 40px 37px;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+
+#logos-footer h5 {
+    font-weight: 600;
+    font-size: 18px;
+    margin: 20px 0 16px 37px;
+}
+
+#remake-icon-number {
+    background: #515051;
+    width: 182px;
+    height: 48px;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 34px;
+    margin-bottom: 32px;
+}
+
+#remake-icon-number p {
+    padding-top: 15px;
+}
+
+#remake-icon-number img {
+    padding-top: 15px;
+
+}
+
+#remake-icon-mail {
+    background: #515051;
+    width: 230px;
+    height: 48px;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: 34px;
+    margin-bottom: 32px;
+    padding-left: 5px;
+    padding-right: 6px;
+}
+
+#remake-icon-mail p {
+    padding-top: 15px;
+    padding-left: 11px;
+    padding-right: 24px;
+}
+
+#remake-icon-mail img {
+    padding-top: 15px;
+    filter: invert(1);
+    padding-left: 10px;
+}
+
+#logos-footer IconLogin {
+    margin: 16px 0 16px 0;
+}
+
+.list-footer {
+    margin: 83px 176px 43px 0;
+}
+
+.list-footer li {
+    list-style: none;
+    padding-bottom: 16px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+#listTerms {
+    margin: 83px 0 43px 0;
+}
+
+#listTerms li {
+    padding-bottom: 16px;
+    font-weight: 600;
+    font-size: 14px;
+    list-style: none;
+}

@@ -1,0 +1,128 @@
+#conteiner-cesta {
+    z-index: 1;
+    position: fixed;
+    right: 0;
+    top: 64px;
+    background-color: rgba(42, 91, 69, 1);
+    padding: 20px;
+    border-radius: 2px;
+    overflow: scroll;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+#style-cesta {
+    margin-bottom: 15px;
+}
+
+#do-columns {
+    display: flex;
+    border-bottom: 1px solid white;
+    padding: 10px;
+}
+
+#shop-central {
+    background-color: rgba(227, 222, 215, 1);
+    border: 1px solid #E3DED7;
+    border-radius: 8px;
+    padding: 15px;
+}
+
+#shop-central img {
+    width: 70%;
+    margin-left: 35px;
+    margin-bottom: 10px;
+}
+
+#shop-central h4 {
+    font-weight: 600;
+    font-size: 14px;
+    margin-left: 65px;
+    margin-bottom: 5px;
+    color: black;
+}
+
+#shop-central p {
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 75px;
+    color: black;
+}
+
+#btn-vaciar {
+    text-decoration: none;
+    background-color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    color: #2A5B45;
+    margin-right: 10px;
+}
+
+#btn-vaciar:hover {
+    font-size: 14.5px;
+}
+
+
+#btn-go-cesta {
+    text-decoration: none;
+    background-color: white;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    color: #2A5B45;
+}
+
+#btn-go-cesta a {
+    text-decoration: none;
+    color: #2A5B45;
+}
+
+#btn-go-cesta:hover {
+    font-size: 14.5px;
+}
+
+#shop-buttons {
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+#qua {
+    margin-top: 80px;
+}
+
+#shop-buttons button{
+    width: 40px;
+    border: none;
+    border-radius: 50%;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#shop-buttons button:hover {
+    font-size: 17px;
+}
+
+#shop-buttons span {
+    font-size: 18px;
+}
+
+#btn-remove-all {
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+    border: none;
+    border-radius: 50%;
+    color: gray;
+    position: relative;
+    top: 0;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+#btn-remove-all:hover {
+    font-size: 24px;
+    opacity: 90%;
+}
+

@@ -1,0 +1,20 @@
+#section-question {
+    background-color: #2A5B45;
+    padding-bottom: 52px;
+}
+
+#titAcor {
+    font-weight: 500;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    padding-top: 48px;
+    padding-bottom: 41px;
+}
+
+#made-column {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: center;
+}
